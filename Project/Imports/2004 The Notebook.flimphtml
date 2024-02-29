@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="specific"
+  ResourceFolder="file:///C:/Users/User/Desktop/sprksik/Sparks0.1/Content/Resources/"
+  LastImport="2024-02-14T23:00:33.6327979+01:00"
+  ImportTopicsLocation="Content/C-Movies/">
+  <Files>
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2004 The Notebook.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2004 The Notebook.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2008 Nights in Rodanthe.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2008 Nights in Rodanthe.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2010 Dear John.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2010 Dear John.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2010 The Last Song.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2010 The Last Song.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2012 The Lucky One.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2012 The Lucky One.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2013 Safe Heaven.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2013 Safe Heaven.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2014 The Best of Me.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2014 The Best of Me.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2015 The Longest Ride.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2015 The Longest Ride.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2016 The Choice.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2016 The Choice.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/1999 Message in a Bottle.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/1999 Message in a Bottle.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/C-Movies/2002 A walk to remember.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/C-Movies/2002 A walk to remember.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/C-Movies/2004 The Notebook.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2008 Nights in Rodanthe.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2010 Dear John.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2010 The Last Song.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2012 The Lucky One.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2013 Safe Heaven.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2014 The Best of Me.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2015 The Longest Ride.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2016 The Choice.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/1999 Message in a Bottle.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../../Content/C-Movies/2002 A walk to remember.htm"
+      TimeStamp="14.02.2024 23:00:30" />
+    <Url
+      Source="../TOCs/2004 The Notebook.fltoc"
+      TimeStamp="14.02.2024 23:00:33" />
+    <Url
+      Source="../../Content/Resources/Images/Notebook movie2.jpg"
+      TimeStamp="28.01.2024 07:42:59" />
+    <Url
+      Source="../../Content/Resources/Images/200809-nights-in-rodanthe2.jpeg"
+      TimeStamp="28.01.2024 07:50:37" />
+    <Url
+      Source="../../Content/Resources/Images/201002-dear-john2.jpeg"
+      TimeStamp="28.01.2024 07:50:47" />
+    <Url
+      Source="../../Content/Resources/Images/201003-the-last-song2.jpeg"
+      TimeStamp="28.01.2024 07:50:59" />
+    <Url
+      Source="../../Content/Resources/Images/p8890197_p_v8_an2.jpeg"
+      TimeStamp="28.01.2024 07:51:07" />
+    <Url
+      Source="../../Content/Resources/Images/safe-haven-movie-poster2.jpeg"
+      TimeStamp="28.01.2024 07:57:24" />
+    <Url
+      Source="../../Content/Resources/Images/BOMPoster2.jpg"
+      TimeStamp="28.01.2024 07:57:33" />
+    <Url
+      Source="../../Content/Resources/Images/Longest2.jpg"
+      TimeStamp="28.01.2024 07:57:55" />
+    <Url
+      Source="../../Content/Resources/Images/201602-the-choice2.jpeg"
+      TimeStamp="28.01.2024 07:58:07" />
+    <Url
+      Source="../../Content/Resources/Images/movie message-in-a-bottle2.jpg"
+      TimeStamp="28.01.2024 07:43:51" />
+    <Url
+      Source="../../Content/Resources/Images/movie a-walk-to-remember2.png"
+      TimeStamp="28.01.2024 07:48:03" />
+  </GeneratedFiles>
+</HtmlImport>

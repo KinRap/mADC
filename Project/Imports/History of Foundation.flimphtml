@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="specific"
+  ResourceFolder="file:///C:/Users/User/Desktop/sprksik/Sparks0.1/Content/Resources/"
+  LastImport="2024-02-14T23:03:14.7201924+01:00"
+  ImportTopicsLocation="Content/D-About Foundation/">
+  <Files>
+    <Url
+      Source="../../../Sparks0.2/Content/D-Foundation/History of Foundation.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/D-Foundation/History of Foundation.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/D-Foundation/How you can help.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/D-Foundation/How you can help.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/D-About Foundation/History of Foundation.htm"
+      TimeStamp="14.02.2024 23:03:12" />
+    <Url
+      Source="../../Content/D-About Foundation/How you can help.htm"
+      TimeStamp="14.02.2024 23:03:12" />
+    <Url
+      Source="../TOCs/History of Foundation.fltoc"
+      TimeStamp="14.02.2024 23:03:14" />
+  </GeneratedFiles>
+</HtmlImport>

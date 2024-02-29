@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HtmlImport
+  ImportResources="true"
+  ImportResourcesLocation="ProjectResourcesFolder"
+  KeepSourceLinks="true"
+  SourceFolders=""
+  ImportTopics="specific"
+  ResourceFolder="file:///C:/Users/User/Desktop/sprksik/Sparks0.1/Content/Resources/"
+  LastImport="2024-02-14T23:02:23.2580742+01:00"
+  ImportTopicsLocation="Content/A-About the Author/">
+  <Files>
+    <Url
+      Source="../../../Sparks0.2/Content/A-Author/Biography.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/A-Author/Biography.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/A-Author/FAQs.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/A-Author/FAQs.htm" />
+    <Url
+      Source="../../../Sparks0.2/Content/A-Author/About the Author.htm"
+      AbsoluteSource="file:///C:/Users/User/Desktop/sprksik/Sparks0.2/Content/A-Author/About the Author.htm" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/A-About the Author/Biography.htm"
+      TimeStamp="14.02.2024 23:02:20" />
+    <Url
+      Source="../../Content/A-About the Author/FAQs.htm"
+      TimeStamp="14.02.2024 23:02:20" />
+    <Url
+      Source="../../Content/A-About the Author/About the Author.htm"
+      TimeStamp="14.02.2024 23:02:20" />
+    <Url
+      Source="../TOCs/Biography1.fltoc"
+      TimeStamp="14.02.2024 23:02:23" />
+    <Url
+      Source="../../Content/Resources/Images/SparksA1.png"
+      TimeStamp="28.01.2024 00:20:22" />
+    <Url
+      Source="../../Content/Resources/Images/Sparks1.png"
+      TimeStamp="28.01.2024 00:13:51" />
+  </GeneratedFiles>
+</HtmlImport>
