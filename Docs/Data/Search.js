@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A-About the Author/About the Author.htm'],s:['$100','jobless','will'],p:[['$100',40],['contributes',1],['himself',4],['now',19],['store',17]]});
